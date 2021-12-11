@@ -41,7 +41,7 @@ pip3 install -r requirements.txt or python -m pip install -r requirements.txt
 ```
 pkg update
 pkg install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/pl8g/overload
 cd overload/
 pip3 install -r requirements.txt
 ```
